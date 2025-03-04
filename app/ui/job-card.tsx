@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import { JobProps } from '@/app/lib/definitions';
+import { Job } from '@/app/lib/definitions';
 import { calculateMatchScore, userSkills } from '@/app/lib/jobs';
+
 export default function JobCard({
   id,
   title,
@@ -8,7 +9,7 @@ export default function JobCard({
   location,
   salary,
   description,
-  requiredSkills }: JobProps) {
+  requiredSkills }: Job) {
   const matchScore = calculateMatchScore(userSkills, requiredSkills);
 
   let badgeType = "badge-error";
