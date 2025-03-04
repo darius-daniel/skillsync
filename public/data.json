@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Tech Corp",
+    "location": "Remote",
+    "salary": "$70,000 - $90,000",
+    "requiredSkills": [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "Tailwind CSS"
+    ],
+    "matchScore": 85
+  },
+  {
+    "id": 2,
+    "title": "UI Engineer",
+    "company": "DesignPro",
+    "location": "New York, USA",
+    "salary": "$80,000 - $100,000",
+    "requiredSkills": [
+      "Figma",
+      "React",
+      "CSS"
+    ],
+    "matchScore": 70
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "company": "CloudSoft",
+    "location": "San Francisco, USA",
+    "salary": "$90,000 - $110,000",
+    "requiredSkills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "TypeScript"
+    ],
+    "matchScore": 78
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer",
+    "company": "DevSolutions",
+    "location": "Berlin, Germany",
+    "salary": "€75,000 - €95,000",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "GraphQL",
+      "PostgreSQL"
+    ],
+    "matchScore": 88
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Developer",
+    "company": "Appify",
+    "location": "Toronto, Canada",
+    "salary": "$85,000 - $105,000",
+    "requiredSkills": [
+      "React Native",
+      "TypeScript",
+      "Redux"
+    ],
+    "matchScore": 74
+  },
+  {
+    "id": 6,
+    "title": "Software Engineer",
+    "company": "InnovateX",
+    "location": "London, UK",
+    "salary": "£65,000 - £85,000",
+    "requiredSkills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "matchScore": 82
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer",
+    "company": "CloudOps",
+    "location": "Austin, USA",
+    "salary": "$95,000 - $120,000",
+    "requiredSkills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "matchScore": 67
+  },
+  {
+    "id": 8,
+    "title": "Game Developer",
+    "company": "Epic Play",
+    "location": "Tokyo, Japan",
+    "salary": "¥8,000,000 - ¥12,000,000",
+    "requiredSkills": [
+      "Unity",
+      "C#",
+      "Blender"
+    ],
+    "matchScore": 72
+  },
+  {
+    "id": 9,
+    "title": "Machine Learning Engineer",
+    "company": "AI Labs",
+    "location": "Seattle, USA",
+    "salary": "$110,000 - $140,000",
+    "requiredSkills": [
+      "Python",
+      "TensorFlow",
+      "Pandas",
+      "SQL"
+    ],
+    "matchScore": 90
+  },
+  {
+    "id": 10,
+    "title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "Paris, France",
+    "salary": "€70,000 - €95,000",
+    "requiredSkills": [
+      "Networking",
+      "Ethical Hacking",
+      "Python"
+    ],
+    "matchScore": 79
+  },
+  {
+    "id": 11,
+    "title": "Technical Writer",
+    "company": "DocuTech",
+    "location": "Remote",
+    "salary": "$60,000 - $80,000",
+    "requiredSkills": [
+      "Markdown",
+      "Technical Writing",
+      "API Documentation"
+    ],
+    "matchScore": 83
+  },
+  {
+    "id": 12,
+    "title": "AI Research Scientist",
+    "company": "DeepMindX",
+    "location": "Boston, USA",
+    "salary": "$130,000 - $160,000",
+    "requiredSkills": [
+      "Deep Learning",
+      "PyTorch",
+      "NLP"
+    ],
+    "matchScore": 94
+  }
+]
