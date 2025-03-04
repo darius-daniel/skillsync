@@ -1,164 +1,784 @@
 [
   {
     "id": 1,
-    "title": "Frontend Developer",
-    "company": "Tech Corp",
-    "location": "Remote",
-    "salary": "$70,000 - $90,000",
+    "title": "Software Engineer",
+    "company": "TechCorp",
+    "location": "New York, NY",
+    "salary": "$120,000 - $150,000 per year",
     "requiredSkills": [
-      "React",
-      "Next.js",
       "JavaScript",
-      "Tailwind CSS"
+      "React",
+      "Node.js"
     ],
-    "matchScore": 85
+    "description": "We're seeking an experienced software engineer to join our team. Responsibilities include developing and maintaining our web application, collaborating with cross-functional teams, and participating in code reviews."
   },
   {
     "id": 2,
-    "title": "UI Engineer",
-    "company": "DesignPro",
-    "location": "New York, USA",
-    "salary": "$80,000 - $100,000",
+    "title": "Data Scientist",
+    "company": "DataAnalytics Inc.",
+    "location": "San Francisco, CA",
+    "salary": "$100,000 - $130,000 per year",
     "requiredSkills": [
-      "Figma",
-      "React",
-      "CSS"
+      "Python",
+      "R",
+      "Machine Learning"
     ],
-    "matchScore": 70
+    "description": "We're looking for a data scientist to join our team. Responsibilities include developing predictive models, analyzing complex data sets, and communicating insights to stakeholders."
   },
   {
     "id": 3,
-    "title": "Backend Developer",
-    "company": "CloudSoft",
-    "location": "San Francisco, USA",
-    "salary": "$90,000 - $110,000",
+    "title": "Product Manager",
+    "company": "Productify",
+    "location": "Chicago, IL",
+    "salary": "$90,000 - $120,000 per year",
     "requiredSkills": [
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "TypeScript"
+      "Product Development",
+      "Project Management",
+      "Communication"
     ],
-    "matchScore": 78
+    "description": "We're seeking an experienced product manager to lead our product development team. Responsibilities include defining product vision, prioritizing features, and collaborating with cross-functional teams."
   },
   {
     "id": 4,
-    "title": "Full Stack Developer",
-    "company": "DevSolutions",
-    "location": "Berlin, Germany",
-    "salary": "€75,000 - €95,000",
-    "requiredSkills": [
-      "React",
-      "Node.js",
-      "GraphQL",
-      "PostgreSQL"
-    ],
-    "matchScore": 88
-  },
-  {
-    "id": 5,
-    "title": "Mobile App Developer",
-    "company": "Appify",
-    "location": "Toronto, Canada",
-    "salary": "$85,000 - $105,000",
-    "requiredSkills": [
-      "React Native",
-      "TypeScript",
-      "Redux"
-    ],
-    "matchScore": 74
-  },
-  {
-    "id": 6,
-    "title": "Software Engineer",
-    "company": "InnovateX",
-    "location": "London, UK",
-    "salary": "£65,000 - £85,000",
-    "requiredSkills": [
-      "Python",
-      "Django",
-      "PostgreSQL",
-      "AWS"
-    ],
-    "matchScore": 82
-  },
-  {
-    "id": 7,
     "title": "DevOps Engineer",
-    "company": "CloudOps",
-    "location": "Austin, USA",
-    "salary": "$95,000 - $120,000",
+    "company": "DevOps Solutions",
+    "location": "Austin, TX",
+    "salary": "$110,000 - $140,000 per year",
     "requiredSkills": [
       "AWS",
       "Docker",
-      "Kubernetes",
-      "Terraform"
+      "Kubernetes"
     ],
-    "matchScore": 67
+    "description": "We're looking for a DevOps engineer to join our team. Responsibilities include designing and implementing infrastructure, automating deployment processes, and ensuring high availability and scalability."
+  },
+  {
+    "id": 5,
+    "title": "UX Designer",
+    "company": "UX Design Studio",
+    "location": "Seattle, WA",
+    "salary": "$80,000 - $110,000 per year",
+    "requiredSkills": [
+      "User Experience Design",
+      "User Interface Design",
+      "Prototyping"
+    ],
+    "description": "We're seeking a talented UX designer to join our team. Responsibilities include designing intuitive and user-friendly interfaces, conducting user research, and collaborating with cross-functional teams."
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Engineer",
+    "company": "Cybersecurity Solutions",
+    "location": "Washington, D.C.",
+    "salary": "$120,000 - $150,000 per year",
+    "requiredSkills": [
+      "Security Architecture",
+      "Threat Analysis",
+      "Compliance"
+    ],
+    "description": "We're looking for a cybersecurity engineer to join our team. Responsibilities include designing and implementing secure architectures, conducting threat analyses, and ensuring compliance with regulatory requirements."
+  },
+  {
+    "id": 7,
+    "title": "Full Stack Developer",
+    "company": "Full Stack Solutions",
+    "location": "Denver, CO",
+    "salary": "$90,000 - $120,000 per year",
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "description": "We're seeking a full stack developer to join our team. Responsibilities include developing front-end and back-end applications, collaborating with cross-functional teams, and participating in code reviews."
   },
   {
     "id": 8,
-    "title": "Game Developer",
-    "company": "Epic Play",
-    "location": "Tokyo, Japan",
-    "salary": "¥8,000,000 - ¥12,000,000",
+    "title": "Artificial Intelligence Engineer",
+    "company": "AI Solutions",
+    "location": "Boston, MA",
+    "salary": "$100,000 - $130,000 per year",
     "requiredSkills": [
-      "Unity",
-      "C#",
-      "Blender"
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
     ],
-    "matchScore": 72
+    "description": "We're looking for an artificial intelligence engineer to join our team. Responsibilities include developing and implementing AI models, collaborating with cross-functional teams, and participating in research and development."
   },
   {
     "id": 9,
-    "title": "Machine Learning Engineer",
-    "company": "AI Labs",
-    "location": "Seattle, USA",
-    "salary": "$110,000 - $140,000",
+    "title": "Cloud Engineer",
+    "company": "Cloud Solutions",
+    "location": "Atlanta, GA",
+    "salary": "$110,000 - $140,000 per year",
     "requiredSkills": [
-      "Python",
-      "TensorFlow",
-      "Pandas",
-      "SQL"
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Kubernetes"
     ],
-    "matchScore": 90
+    "description": "We're seeking a cloud engineer to join our team. Responsibilities include designing and implementing cloud architectures, migrating applications to the cloud, and ensuring high availability and scalability."
   },
   {
     "id": 10,
-    "title": "Cybersecurity Analyst",
-    "company": "SecureTech",
-    "location": "Paris, France",
-    "salary": "€70,000 - €95,000",
+    "title": "Frontend Developer",
+    "company": "Innovatech",
+    "location": "San Francisco",
+    "salary": "$110,000",
+    "description": "Join our team at Innovatech as a Frontend Developer in San Francisco. We are looking for someone with skills in HTML, CSS, JavaScript. You will be responsible for creating stunning user interfaces.",
     "requiredSkills": [
-      "Networking",
-      "Ethical Hacking",
-      "Python"
-    ],
-    "matchScore": 79
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
   },
   {
     "id": 11,
-    "title": "Technical Writer",
-    "company": "DocuTech",
-    "location": "Remote",
-    "salary": "$60,000 - $80,000",
+    "title": "Data Scientist",
+    "company": "DataWorks",
+    "location": "Boston",
+    "salary": "$130,000",
+    "description": "Are you a skilled Data Scientist looking for a new opportunity? DataWorks in Boston is seeking a professional with expertise in Python, R, Machine Learning. Be part of a dynamic team and make a difference.",
     "requiredSkills": [
-      "Markdown",
-      "Technical Writing",
-      "API Documentation"
-    ],
-    "matchScore": 83
+      "Python",
+      "R",
+      "Machine Learning"
+    ]
   },
   {
     "id": 12,
-    "title": "AI Research Scientist",
-    "company": "DeepMindX",
-    "location": "Boston, USA",
-    "salary": "$130,000 - $160,000",
+    "title": "Backend Developer",
+    "company": "WebSolutions",
+    "location": "Austin",
+    "salary": "$105,000",
+    "description": "At WebSolutions, we value talent and dedication. As a Backend Developer based in Austin, you will utilize your skills in Node.js, Express, MongoDB to contribute to our success. Apply now to join our innovative team.",
+    "requiredSkills": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "UX Designer",
+    "company": "Creative Minds",
+    "location": "Seattle",
+    "salary": "$95,000",
+    "description": "Exciting opportunity at Creative Minds for a UX Designer in Seattle. We need someone with a strong background in Adobe XD, Figma, User Research to help us achieve our goals.",
+    "requiredSkills": [
+      "Adobe XD",
+      "Figma",
+      "User Research"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "DevOps Engineer",
+    "company": "CloudNet",
+    "location": "Denver",
+    "salary": "$115,000",
+    "description": "Become a part of CloudNet as a DevOps Engineer in Denver. Your expertise in AWS, Docker, Kubernetes will be crucial in our upcoming projects.",
+    "requiredSkills": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Product Manager",
+    "company": "TechVision",
+    "location": "Chicago",
+    "salary": "$125,000",
+    "description": "TechVision is looking for a Product Manager in Chicago with skills in Agile, Scrum, Product Roadmaps. Join us to work on cutting-edge technology and innovative solutions.",
+    "requiredSkills": [
+      "Agile",
+      "Scrum",
+      "Product Roadmaps"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Mobile Developer",
+    "company": "Appify",
+    "location": "Los Angeles",
+    "salary": "$108,000",
+    "description": "As a Mobile Developer at Appify in Los Angeles, you will be at the forefront of technology, using your skills in Swift, Kotlin, React Native to develop groundbreaking applications.",
+    "requiredSkills": [
+      "Swift",
+      "Kotlin",
+      "React Native"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "Washington D.C.",
+    "salary": "$120,000",
+    "description": "Join SecureTech's Washington D.C. team as a Cybersecurity Analyst. We are seeking someone with expertise in Network Security, Penetration Testing, Risk Assessment to lead our next big project.",
+    "requiredSkills": [
+      "Network Security",
+      "Penetration Testing",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "AI Researcher",
+    "company": "FutureAI",
+    "location": "New York",
+    "salary": "$140,000",
+    "description": "FutureAI offers a unique opportunity for an AI Researcher in New York. If you have skills in Deep Learning, TensorFlow, NLP, we want you to be part of our success story.",
     "requiredSkills": [
       "Deep Learning",
-      "PyTorch",
+      "TensorFlow",
       "NLP"
-    ],
-    "matchScore": 94
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Network Engineer",
+    "company": "NetSolutions",
+    "location": "Miami",
+    "salary": "$100,000",
+    "description": "Be a part of NetSolutions' innovative team in Miami as a Network Engineer. Your skills in Cisco, Network Design, Troubleshooting will help us shape the future of technology.",
+    "requiredSkills": [
+      "Cisco",
+      "Network Design",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Full Stack Developer",
+    "company": "TechSolutions",
+    "location": "San Francisco",
+    "salary": "$130,000",
+    "description": "TechSolutions is looking for a Full Stack Developer in San Francisco. We need someone with skills in React, Node.js, MongoDB to contribute to our success.",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Cloud Architect",
+    "company": "SkyTech",
+    "location": "San Jose",
+    "salary": "$150,000",
+    "description": "SkyTech is seeking a Cloud Architect in San Jose. Your expertise in AWS, Azure, and cloud infrastructure will be key in designing scalable solutions.",
+    "requiredSkills": [
+      "AWS",
+      "Azure",
+      "Cloud Infrastructure"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Machine Learning Engineer",
+    "company": "DataGen",
+    "location": "Palo Alto",
+    "salary": "$135,000",
+    "description": "Join DataGen as a Machine Learning Engineer in Palo Alto. We need someone skilled in Python, TensorFlow, and data modeling to drive our AI initiatives.",
+    "requiredSkills": [
+      "Python",
+      "TensorFlow",
+      "Data Modeling"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Systems Administrator",
+    "company": "NetGuard",
+    "location": "Dallas",
+    "salary": "$95,000",
+    "description": "NetGuard is looking for a Systems Administrator in Dallas. Your skills in Linux, Windows Server, and network management will support our IT operations.",
+    "requiredSkills": [
+      "Linux",
+      "Windows Server",
+      "Network Management"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Business Analyst",
+    "company": "InsightCorp",
+    "location": "New York",
+    "salary": "$110,000",
+    "description": "InsightCorp seeks a Business Analyst in New York. Expertise in data analysis, business intelligence, and stakeholder communication is essential.",
+    "requiredSkills": [
+      "Data Analysis",
+      "Business Intelligence",
+      "Stakeholder Communication"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Quality Assurance Engineer",
+    "company": "TestPro",
+    "location": "Phoenix",
+    "salary": "$85,000",
+    "description": "TestPro is hiring a Quality Assurance Engineer in Phoenix. We need someone with experience in automated testing, Selenium, and quality control.",
+    "requiredSkills": [
+      "Automated Testing",
+      "Selenium",
+      "Quality Control"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Technical Support Specialist",
+    "company": "HelpDesk Solutions",
+    "location": "Orlando",
+    "salary": "$70,000",
+    "description": "HelpDesk Solutions is looking for a Technical Support Specialist in Orlando. Your skills in troubleshooting, customer service, and IT support are needed.",
+    "requiredSkills": [
+      "Troubleshooting",
+      "Customer Service",
+      "IT Support"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Database Administrator",
+    "company": "DataSecure",
+    "location": "Chicago",
+    "salary": "$105,000",
+    "description": "DataSecure is seeking a Database Administrator in Chicago. Expertise in SQL, database management, and performance tuning is required.",
+    "requiredSkills": [
+      "SQL",
+      "Database Management",
+      "Performance Tuning"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "IT Project Manager",
+    "company": "TechFlow",
+    "location": "Seattle",
+    "salary": "$120,000",
+    "description": "TechFlow is hiring an IT Project Manager in Seattle. Skills in project management, Agile methodologies, and team leadership are essential.",
+    "requiredSkills": [
+      "Project Management",
+      "Agile",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Security Analyst",
+    "company": "SecureNet",
+    "location": "Atlanta",
+    "salary": "$115,000",
+    "description": "SecureNet is looking for a Security Analyst in Atlanta. Your expertise in cybersecurity, threat detection, and incident response is crucial.",
+    "requiredSkills": [
+      "Cybersecurity",
+      "Threat Detection",
+      "Incident Response"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Blockchain Developer",
+    "company": "CryptoTech",
+    "location": "San Francisco",
+    "salary": "$140,000",
+    "description": "CryptoTech is seeking a Blockchain Developer in San Francisco. Skills in blockchain technology, smart contracts, and Ethereum are needed.",
+    "requiredSkills": [
+      "Blockchain Technology",
+      "Smart Contracts",
+      "Ethereum"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Full Stack Developer",
+    "company": "TechSolutions",
+    "location": "San Francisco",
+    "salary": "$130,000",
+    "description": "TechSolutions is looking for a Full Stack Developer in San Francisco. We need someone with skills in React, Node.js, MongoDB to contribute to our success.",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Frontend Developer",
+    "company": "WebInnovate",
+    "location": "Los Angeles",
+    "salary": "$115,000",
+    "description": "Join WebInnovate as a Frontend Developer in Los Angeles. Your expertise in Angular, TypeScript, and CSS will be crucial in creating stunning user interfaces.",
+    "requiredSkills": [
+      "Angular",
+      "TypeScript",
+      "CSS"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Backend Developer",
+    "company": "CodeCraft",
+    "location": "Austin",
+    "salary": "$120,000",
+    "description": "CodeCraft is seeking a Backend Developer in Austin. We are looking for someone skilled in Python, Django, and PostgreSQL to enhance our backend systems.",
+    "requiredSkills": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Mobile App Developer",
+    "company": "AppVentures",
+    "location": "New York",
+    "salary": "$125,000",
+    "description": "AppVentures is hiring a Mobile App Developer in New York. Your skills in Flutter, Dart, and mobile UI/UX design will drive our app development projects.",
+    "requiredSkills": [
+      "Flutter",
+      "Dart",
+      "Mobile UI/UX Design"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "DevOps Engineer",
+    "company": "CloudOps",
+    "location": "Seattle",
+    "salary": "$130,000",
+    "description": "CloudOps is looking for a DevOps Engineer in Seattle. Expertise in Jenkins, Docker, and Kubernetes is essential for automating our deployment processes.",
+    "requiredSkills": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Software Engineer",
+    "company": "Innovatech",
+    "location": "Boston",
+    "salary": "$140,000",
+    "description": "Innovatech is seeking a Software Engineer in Boston. We need someone with experience in Java, Spring Boot, and microservices architecture.",
+    "requiredSkills": [
+      "Java",
+      "Spring Boot",
+      "Microservices"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Game Developer",
+    "company": "GameStudio",
+    "location": "San Diego",
+    "salary": "$110,000",
+    "description": "GameStudio is hiring a Game Developer in San Diego. Your skills in Unity, C#, and game design will be key in creating immersive gaming experiences.",
+    "requiredSkills": [
+      "Unity",
+      "C#",
+      "Game Design"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "AI Developer",
+    "company": "AI Innovations",
+    "location": "Palo Alto",
+    "salary": "$145,000",
+    "description": "AI Innovations is looking for an AI Developer in Palo Alto. Expertise in Python, TensorFlow, and machine learning algorithms is required.",
+    "requiredSkills": [
+      "Python",
+      "TensorFlow",
+      "Machine Learning Algorithms"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Blockchain Developer",
+    "company": "BlockTech",
+    "location": "Miami",
+    "salary": "$135,000",
+    "description": "BlockTech is seeking a Blockchain Developer in Miami. Skills in Solidity, Ethereum, and smart contract development are needed.",
+    "requiredSkills": [
+      "Solidity",
+      "Ethereum",
+      "Smart Contract Development"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Embedded Systems Developer",
+    "company": "EmbedTech",
+    "location": "Chicago",
+    "salary": "$125,000",
+    "description": "EmbedTech is hiring an Embedded Systems Developer in Chicago. Your expertise in C++, RTOS, and hardware integration will drive our embedded solutions.",
+    "requiredSkills": [
+      "C++",
+      "RTOS",
+      "Hardware Integration"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Frontend Developer",
+    "company": "DesignHub",
+    "location": "Portland",
+    "salary": "$112,000",
+    "description": "DesignHub is seeking a Frontend Developer in Portland. Your skills in Vue.js, JavaScript, and CSS will be essential in crafting beautiful user interfaces.",
+    "requiredSkills": [
+      "Vue.js",
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Backend Developer",
+    "company": "DataStream",
+    "location": "Houston",
+    "salary": "$118,000",
+    "description": "DataStream is hiring a Backend Developer in Houston. We need someone with expertise in Ruby on Rails, PostgreSQL, and API development.",
+    "requiredSkills": [
+      "Ruby on Rails",
+      "PostgreSQL",
+      "API Development"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Mobile Developer",
+    "company": "AppMasters",
+    "location": "San Jose",
+    "salary": "$130,000",
+    "description": "AppMasters is looking for a Mobile Developer in San Jose. Your experience with React Native, Swift, and mobile app design will be crucial.",
+    "requiredSkills": [
+      "React Native",
+      "Swift",
+      "Mobile App Design"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "DevOps Engineer",
+    "company": "TechOps",
+    "location": "Raleigh",
+    "salary": "$125,000",
+    "description": "TechOps is seeking a DevOps Engineer in Raleigh. Expertise in Ansible, Docker, and CI/CD pipelines is required.",
+    "requiredSkills": [
+      "Ansible",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Full Stack Developer",
+    "company": "WebCraft",
+    "location": "Philadelphia",
+    "salary": "$128,000",
+    "description": "WebCraft is hiring a Full Stack Developer in Philadelphia. Skills in Angular, Node.js, and MongoDB are needed to drive our web projects.",
+    "requiredSkills": [
+      "Angular",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Game Developer",
+    "company": "PlayTech",
+    "location": "Las Vegas",
+    "salary": "$115,000",
+    "description": "PlayTech is looking for a Game Developer in Las Vegas. Your skills in Unreal Engine, C++, and game mechanics will be key.",
+    "requiredSkills": [
+      "Unreal Engine",
+      "C++",
+      "Game Mechanics"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "AI Engineer",
+    "company": "NeuralNet",
+    "location": "Cambridge",
+    "salary": "$150,000",
+    "description": "NeuralNet is seeking an AI Engineer in Cambridge. Expertise in Python, PyTorch, and neural networks is essential.",
+    "requiredSkills": [
+      "Python",
+      "PyTorch",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Blockchain Developer",
+    "company": "ChainTech",
+    "location": "Austin",
+    "salary": "$140,000",
+    "description": "ChainTech is hiring a Blockchain Developer in Austin. Skills in Hyperledger, Solidity, and blockchain architecture are required.",
+    "requiredSkills": [
+      "Hyperledger",
+      "Solidity",
+      "Blockchain Architecture"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Embedded Software Engineer",
+    "company": "MicroTech",
+    "location": "Detroit",
+    "salary": "$122,000",
+    "description": "MicroTech is looking for an Embedded Software Engineer in Detroit. Your expertise in C, RTOS, and embedded systems will drive our innovations.",
+    "requiredSkills": [
+      "C",
+      "RTOS",
+      "Embedded Systems"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Frontend Developer",
+    "company": "PixelPerfect",
+    "location": "Miami",
+    "salary": "$110,000",
+    "description": "PixelPerfect is seeking a Frontend Developer in Miami. Skills in Svelte, JavaScript, and responsive design are needed.",
+    "requiredSkills": [
+      "Svelte",
+      "JavaScript",
+      "Responsive Design"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Backend Developer",
+    "company": "ServerSide",
+    "location": "Phoenix",
+    "salary": "$125,000",
+    "description": "ServerSide is hiring a Backend Developer in Phoenix. Expertise in Go, Kubernetes, and microservices is required.",
+    "requiredSkills": [
+      "Go",
+      "Kubernetes",
+      "Microservices"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Mobile App Developer",
+    "company": "AppWorld",
+    "location": "Orlando",
+    "salary": "$120,000",
+    "description": "AppWorld is looking for a Mobile App Developer in Orlando. Your skills in Kotlin, Flutter, and mobile UI/UX will be crucial.",
+    "requiredSkills": [
+      "Kotlin",
+      "Flutter",
+      "Mobile UI/UX"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "DevOps Engineer",
+    "company": "DeployTech",
+    "location": "Denver",
+    "salary": "$135,000",
+    "description": "DeployTech is seeking a DevOps Engineer in Denver. Expertise in Terraform, Jenkins, and cloud automation is essential.",
+    "requiredSkills": [
+      "Terraform",
+      "Jenkins",
+      "Cloud Automation"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Full Stack Developer",
+    "company": "CodeFusion",
+    "location": "Seattle",
+    "salary": "$132,000",
+    "description": "CodeFusion is hiring a Full Stack Developer in Seattle. Skills in Vue.js, Node.js, and SQL are needed to enhance our web applications.",
+    "requiredSkills": [
+      "Vue.js",
+      "Node.js",
+      "SQL"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Game Developer",
+    "company": "GameWorks",
+    "location": "Los Angeles",
+    "salary": "$120,000",
+    "description": "GameWorks is looking for a Game Developer in Los Angeles. Your expertise in C#, Unity, and 3D modeling will be key in our projects.",
+    "requiredSkills": [
+      "C#",
+      "Unity",
+      "3D Modeling"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "AI Developer",
+    "company": "AI Labs",
+    "location": "New York",
+    "salary": "$155,000",
+    "description": "AI Labs is seeking an AI Developer in New York. Skills in TensorFlow, Python, and deep learning are required.",
+    "requiredSkills": [
+      "TensorFlow",
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Blockchain Developer",
+    "company": "CryptoChain",
+    "location": "San Francisco",
+    "salary": "$145,000",
+    "description": "CryptoChain is hiring a Blockchain Developer in San Francisco. Expertise in Ethereum, Solidity, and smart contracts is essential.",
+    "requiredSkills": [
+      "Ethereum",
+      "Solidity",
+      "Smart Contracts"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Embedded Systems Developer",
+    "company": "EmbedSys",
+    "location": "Boston",
+    "salary": "$130,000",
+    "description": "EmbedSys is looking for an Embedded Systems Developer in Boston. Your skills in C++, Linux, and hardware integration will drive our projects.",
+    "requiredSkills": [
+      "C++",
+      "Linux",
+      "Hardware Integration"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Frontend Developer",
+    "company": "CreativeWeb",
+    "location": "Chicago",
+    "salary": "$115,000",
+    "description": "CreativeWeb is seeking a Frontend Developer in Chicago. Skills in React, CSS, and JavaScript are needed to create engaging user experiences.",
+    "requiredSkills": [
+      "React",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Backend Developer",
+    "company": "DataBack",
+    "location": "Atlanta",
+    "salary": "$130,000",
+    "description": "DataBack is hiring a Backend Developer in Atlanta. Expertise in Java, Spring, and RESTful services is required.",
+    "requiredSkills": [
+      "Java",
+      "Spring",
+      "RESTful Services"
+    ]
   }
 ]
