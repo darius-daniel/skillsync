@@ -76,4 +76,18 @@ Use this mock JSON API as the job data source:
 ### Submission Guidelines
 * **Deadline:** 3-5 days from assignment.
 * **Submission Format:** GitHub repository with clear README instructions.
-* **Bonus:** Deploy on **Vercel** and share a live demo link. 
+* **Bonus:** Deploy on **Vercel** and share a live demo link.
+
+### How to Run Locally
+```
+git clone https://github.com/darius-daniel/skillsync.git
+cd skillsync
+npm install
+npm run dev
+```
+
+### Repo
+[View Repo](https://github.com/darius-daniel/skillsync)
+
+### Live Demo
+[View Project](https://skillsync-snow.vercel.app)
